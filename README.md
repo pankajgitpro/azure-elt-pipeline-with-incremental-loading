@@ -1,5 +1,5 @@
 # azure-elt-pipeline-with-incremental-loading
-An end-to-end data engineering project built with **Azure Data Factory, Azure SQL Database, Azure Data Lake Storage Gen2, Azure Databricks, PySpark, and Delta Lake.
+An end-to-end data engineering project built with **Azure Data Factory, Azure SQL Database, Azure Data Lake Storage Gen2, Azure Databricks, PySpark,handling SCD Type1 and Delta Lake.
 
 
 Azure End-to-End Incremental Data Engineering Pipeline
